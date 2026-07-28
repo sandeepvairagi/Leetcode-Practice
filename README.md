@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
