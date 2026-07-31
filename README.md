@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0162-find-peak-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -153,10 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
