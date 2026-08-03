@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -180,6 +183,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
