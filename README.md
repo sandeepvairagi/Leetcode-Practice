@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -177,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
