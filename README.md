@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
