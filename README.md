@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Trie
 |  |
