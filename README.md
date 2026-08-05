@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3310-remove-methods-from-project) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
