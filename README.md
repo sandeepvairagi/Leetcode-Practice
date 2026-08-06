@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0162-find-peak-element) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
