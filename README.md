@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
+| [0227-basic-calculator-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0735-asteroid-collision) |
