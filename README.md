@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
