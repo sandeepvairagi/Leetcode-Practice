@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -258,4 +261,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0735-asteroid-collision) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
