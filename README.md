@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0523-continuous-subarray-sum) |
@@ -305,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
