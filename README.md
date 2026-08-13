@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0344-reverse-string) |
@@ -300,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
