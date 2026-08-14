@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0486-predict-the-winner) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
