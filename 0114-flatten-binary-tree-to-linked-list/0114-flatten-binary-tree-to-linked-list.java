@@ -1,27 +1,34 @@
 class Solution {
+
     public void flatten(TreeNode root) {
+        flattenTree(root);
+    }
+
+    private TreeNode flattenTree(TreeNode root) {
 
         if (root == null) {
-            return;
+            return null;
         }
 
-        flatten(root.left);
-        flatten(root.right);
+        TreeNode leftTail = flattenTree(root.left);
+        TreeNode rightTail = flattenTree(root.right);
 
-        TreeNode left = root.left;
-        TreeNode right = root.right;
+        if (leftTail != null) {
 
-        // Left ko right bana do
-        root.left = null;
-        root.right = left;
+            leftTail.right = root.right;
 
-        // Original right ko end mein attach karo
-        TreeNode curr = root;
-
-        while (curr.right != null) {
-            curr = curr.right;
+            root.right = root.left;
+            root.left = null;
         }
 
-        curr.right = right;
+        if (rightTail != null) {
+            return rightTail;
+        }
+
+        if (leftTail != null) {
+            return leftTail;
+        }
+
+        return root;
     }
 }
