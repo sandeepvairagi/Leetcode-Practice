@@ -514,4 +514,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1251-average-selling-price) |
+| [1683-invalid-tweets](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
