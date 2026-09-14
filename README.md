@@ -504,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
