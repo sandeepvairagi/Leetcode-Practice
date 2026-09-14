@@ -508,4 +508,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0197-rising-temperature) |
+| [0595-big-countries](https://github.com/sandeepvairagi/Leetcode-Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
